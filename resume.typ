@@ -7,7 +7,7 @@
 ]
 
 == Professional Summary
-Experienced Full Stack Software Engineer with a strong background in TypeScript, React, React Native, and Node. Always had a true passion for software development, starting at a young age with hobby projects, and putting myself through university while also working has allowed me to graduate with multiple years of industry experience. Have a demonstrated ability working in a collaborative team producing high quality deliverables in fast-paced environments. Always excited to continue learning and improving my skills. Looking for a role where I can continue applying myself and growing as an engineer
+Full Stack Software Engineer with a robust background in TypeScript, React, React Native, and Node. Started software development at a young age, leading to multiple years of industry experience upon graduation. Proven ability to deliver high-quality work in fast-paced, collaborative environments. Passionate about continuous learning and skill improvement. Seeking a role to further apply and enhance my engineering skills.
 
 == Technical Skills
 - *Languages & Frameworks*: TypeScript | React | React Native | NextJS | HTML | CSS\
