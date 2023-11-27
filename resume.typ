@@ -10,7 +10,7 @@
 Full Stack Software Engineer with a robust background in TypeScript, React, React Native, and Node. Started software development at a young age, leading to multiple years of industry experience upon graduation. Proven ability to deliver high-quality work in fast-paced, collaborative environments. Passionate about continuous learning and skill improvement. Seeking a role to further apply and enhance my engineering skills.
 
 == Technical Skills
-- *Languages & Frameworks*: TypeScript | React | React Native | NextJS | HTML | CSS\
+- *Languages & Frameworks*: TypeScript | React | React Native | NextJS | Python | Django | HTML | CSS\
 - *Backend & Databases*: Node | Express | MongoDB | REST\
 - *Tooling*: Git | Docker | AWS | GCP | Google Analytics | Figma | Jira | Expo | Vercel\
 - *Frontend*: Tailwind | Chakra UI | Storybook | ThreeJS | React Three Fibre | React Query | React Hook Form\
