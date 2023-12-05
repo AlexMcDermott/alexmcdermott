@@ -18,7 +18,7 @@ Full Stack Software Engineer with a robust background in TypeScript, React, Reac
 
 == Experience
 
-=== Full Stack Software Engineer (Nov 2021 - Present)
+=== Full Stack Software Engineer (Nov 2022 - Present)
 *Labrys*
 - Co-led development and maintenance of a full stack React Native Expo application (#link("https://apps.apple.com/us/app/pegs/id1606690018")[Pegs])
 - Develop responsive frontend web experiences using NextJS, TypeScript and Chakra UI (#link("https://www.labrys.io")[Labrys.io])
